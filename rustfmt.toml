@@ -1,0 +1,35 @@
+# rustfmt configuration for hecto
+# Docs: https://rust-lang.github.io/rustfmt/
+
+edition = "2024"
+
+# Indentation
+tab_spaces = 4
+hard_tabs = false
+
+# Line length
+max_width = 100
+comment_width = 80
+wrap_comments = true
+
+# Imports
+imports_granularity = "Module"
+group_imports = "StdExternalCrate"
+reorder_imports = true
+reorder_modules = true
+
+# Braces & trailing commas
+brace_style = "SameLinewhere"
+trailing_comma = "Vertical"
+trailing_semicolon = true
+
+# Functions & closures
+fn_params_layout = "Tall"
+newline_style = "Unix"
+
+# Misc
+use_field_init_shorthand = true
+use_try_shorthand = true
+format_strings = true
+normalize_comments = true
+normalize_doc_attributes = true
