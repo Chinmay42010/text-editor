@@ -4,7 +4,7 @@
 - So, this was my first step to learn RUST as a programming language, before starting this project I only read articles about how
   blazingly fast & memory efficient Rust is & how top companies are rewriting their backend services in Rust.
 - But I never wrote a single line of Rust code before & through this project I will be learning more about Rust & will be doing more projects in     Rust in future.
-- 
+  
 #### But Why a Text Editor? Good Question.
 
 - I choose this as my first step to learn Rust because building a text editor allows me to explore a wide range of Rust features,
