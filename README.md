@@ -14,6 +14,6 @@
 #### The tutorial I followed
 
 - Ofcourse I can't do all by myself the first time, the only tutorial that guided me to learn Rust & to help me build this project is from
-  [Philipp Flenker](https://github.com/pflenker) Thanks Philipp & the source from where I found this project was from
+  [Philipp Flenker](https://github.com/pflenker) [Hecto](https://philippflenker.com/hecto/) Thanks Philipp & the source from where I found this      project was from
   [Build your own X](https://github.com/codecrafters-io/build-your-own-x) make sure to check-out this repo, you can learn a lot from here.
   
